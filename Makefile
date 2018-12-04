@@ -6,7 +6,7 @@ lint:
 
 .PHONY: test
 test:
-	pytest --cov=aiomessenger/
+	pytest --cov=app/
 
 .PHONY: all
 all: test lint

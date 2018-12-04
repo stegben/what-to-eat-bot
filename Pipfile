@@ -11,6 +11,7 @@ sanic = "*"
 "flake8-config-yoctol" = "*"
 pytest = "*"
 pytest-cov = "*"
+asynctest = "*"
 
 [requires]
 python_version = "3.6"
