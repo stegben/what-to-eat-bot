@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 aiomessenger = "*"
 sanic = "*"
+dotenv-python = "*"
 
 [dev-packages]
 "flake8-config-yoctol" = "*"
